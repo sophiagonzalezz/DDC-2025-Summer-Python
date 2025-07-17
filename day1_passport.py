@@ -3,13 +3,13 @@ print("🌴🏝️ Welcome to Code Island! 🏝️🌴")
 print("Before you begin your journey, let's create your DIGITAL PASSPORT.\n")
 
 # Collect basic info
-name = input("👤 What's your full name? ")
-age = input("🎂 How old are you? ")
-emoji = input("😄 What's your favorite emoji? ")
-color = input("🎨 What's your favorite color? ")
-dream_job = input("💼 What's your dream job? ")
-code_name = input("🕵️‍♂️ Choose a cool code name for your passport: ")
-island = input("🏖️ Name a magical island you'd love to visit: ")
+name = "Sophia Gonzalez"
+age = "16 years old"
+emoji = "🥳"
+color = "Pink"
+dream_job = "Chartered Financial Analyst (CFA)"
+code_name = "justsophiathings"
+island = "UV & Tan Island"
 
 # Generate passport
 print("\n🔒 Generating your secure passport...\n")
@@ -39,8 +39,12 @@ print("\n\n✔️ All set! Enjoy your journey.\n")
 # Add your own fun facts or sections to the passport here:
 
 # 👉 Example:
-hobby = input("🕹️ What's your favorite hobby? ")
-game = input("🎮 What's your favorite video game? ")
+hobby = "Tanning"
+game = "Roblox"
+favorite_show = "Gossip Girl"
+favorite_movie = "Bridge to Terabithia"
+favorite_shoes = "Golden Goose"
+favorite_skincare_brand = "rhode skin"
 
 # Print custom section
 print("===== BONUS INFO =====")
